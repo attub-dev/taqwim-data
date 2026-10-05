@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "updated": "2026-10-05",
+  "announcement": {
+    "id": "1",
+    "active": false,
+    "title_ar": "ترقبوا جديدنا من هنا",
+    "title_en": "Something new is coming, tap here",
+    "url": "https://example.com",
+    "dismissible": true,
+    "expires": "2026-12-31"
+  },
+  "school_holidays": [
+    {
+      "id": "1448-national-day",
+      "name_ar": "إجازة اليوم الوطني",
+      "name_en": "National Day holiday",
+      "from": "2026-09-23",
+      "to": "2026-09-26"
+    },
+    {
+      "id": "1448-autumn",
+      "name_ar": "إجازة الخريف",
+      "name_en": "Autumn break",
+      "from": "2026-11-20",
+      "to": "2026-11-28"
+    },
+    {
+      "id": "1448-mid-year",
+      "name_ar": "إجازة منتصف العام",
+      "name_en": "Mid-year break",
+      "from": "2027-01-08",
+      "to": "2027-01-16"
+    },
+    {
+      "id": "1448-founding-day",
+      "name_ar": "إجازة يوم التأسيس",
+      "name_en": "Founding Day holiday",
+      "from": "2027-02-19",
+      "to": "2027-02-22"
+    },
+    {
+      "id": "1448-eid-fitr",
+      "name_ar": "إجازة عيد الفطر",
+      "name_en": "Eid al-Fitr holiday",
+      "from": "2027-02-26",
+      "to": "2027-03-13"
+    },
+    {
+      "id": "1448-eid-adha",
+      "name_ar": "إجازة عيد الأضحى",
+      "name_en": "Eid al-Adha holiday",
+      "from": "2027-05-07",
+      "to": "2027-05-22"
+    },
+    {
+      "id": "1448-summer",
+      "name_ar": "إجازة نهاية العام",
+      "name_en": "Summer holiday",
+      "from": "2027-06-24",
+      "to": "2027-08-21"
+    }
+  ],
+  "school_dates": [
+    {
+      "id": "1448-start",
+      "name_ar": "بداية الدراسة",
+      "name_en": "School starts",
+      "date": "2026-08-23"
+    },
+    {
+      "id": "1448-term-2",
+      "name_ar": "بداية الفصل الدراسي الثاني",
+      "name_en": "Second term starts",
+      "date": "2027-01-17"
+    },
+    {
+      "id": "1448-after-fitr",
+      "name_ar": "العودة بعد عيد الفطر",
+      "name_en": "Back to school after Eid al-Fitr",
+      "date": "2027-03-14"
+    },
+    {
+      "id": "1449-start",
+      "name_ar": "بداية العام الدراسي الجديد",
+      "name_en": "New school year starts",
+      "date": "2027-08-22"
+    }
+  ],
+  "national_occasions": [
+    {
+      "id": "founding-day",
+      "name_ar": "يوم التأسيس",
+      "name_en": "Founding Day",
+      "month": 2,
+      "day": 22
+    },
+    {
+      "id": "flag-day",
+      "name_ar": "يوم العلم",
+      "name_en": "Flag Day",
+      "month": 3,
+      "day": 11
+    },
+    {
+      "id": "national-day",
+      "name_ar": "اليوم الوطني السعودي",
+      "name_en": "Saudi National Day",
+      "month": 9,
+      "day": 23
+    }
+  ]
+}
