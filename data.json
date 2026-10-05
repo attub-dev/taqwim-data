@@ -2,9 +2,9 @@
   "version": 1,
   "updated": "2026-10-05",
   "announcement": {
-    "id": "2",
+    "id": "3",
     "active": true,
-    "title_ar": "التحديث قادم من هنا",
+    "title_ar": "هي مجرد بداية من هنا",
     "title_en": "Something new is coming, tap here",
     "url": "https://google.com",
     "dismissible": true,
