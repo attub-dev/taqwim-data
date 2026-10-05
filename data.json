@@ -3,10 +3,10 @@
   "updated": "2026-10-05",
   "announcement": {
     "id": "1",
-    "active": false,
+    "active": true,
     "title_ar": "ترقبوا جديدنا من هنا",
     "title_en": "Something new is coming, tap here",
-    "url": "https://example.com",
+    "url": "https://google.com",
     "dismissible": true,
     "expires": "2026-12-31"
   },
